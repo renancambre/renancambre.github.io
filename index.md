@@ -9,7 +9,7 @@ Hello! I'm Renan, a senior data engineer with a passion for building scalable da
 
 ## About Me
 
-- [AboutMe](about)
+- [about](about)
 
 [View all projects](projects)
 
