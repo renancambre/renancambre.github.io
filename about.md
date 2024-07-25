@@ -24,7 +24,7 @@ Data Plataforms
 - Microsoft Fabric
 
 Dataviz
- - PowerBI
+- PowerBI
 
 Data Lake
 Databases
@@ -54,3 +54,22 @@ Databases
   
 - **Kaprixo Modas** - Administrative Assistant (Year - Year)
   - Description of your role and achievements.  
+  
+ ## Certification
+
+ Microsoft
+ 
+ - DP900
+ - AZ900
+ - AI900
+ - DP203
+ - DP600
+ 
+ Databricks
+ 
+ -
+ 
+GCP
+
+-
+
