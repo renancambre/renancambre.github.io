@@ -11,8 +11,6 @@ Hello! I'm Renan, a senior data engineer with a passion for building scalable da
 
 - [about](about)
 
-[View all projects](projects)
-
 ## Projects
 
 - [Project 1](projects#project1): Data Engineering.
