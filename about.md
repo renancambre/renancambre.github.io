@@ -1,25 +1,56 @@
 ---
 layout: default
-title: About
+title: About Me
 ---
 
 # About Me
 
 I am a data engineer with experience in designing and implementing data pipelines, ETL processes, and data warehousing solutions. I enjoy working with big data technologies and cloud platforms to solve complex data problems.
+I Speak Portuguese, Spanish, English
 
-## Skills
+## Technical Skills
 
-- Python
+Languages Program
 - SQL
-- Apache Spark
-- Airflow
-- AWS/GCP/Azure
-- Data Warehousing
+- Python
+
+Cloud Plataforms
+- Azure
+- GCP
+
+Data Plataforms
+- Databricks
+- Data Factory
+- Microsoft Fabric
+
+Dataviz
+ - PowerBI
+
+Data Lake
+Databases
 
 ## Experience
 
-- **Company 1** - Data Engineer (Year - Year)
+- **AlmavivA Solutions** - Data Engineer (Year - Year)
   - Description of your role and achievements.
 
-- **Company 2** - Data Engineer (Year - Year)
+- **Magna Sistemas** - Data Engineer (Year - Year)
   - Description of your role and achievements.
+  
+- **Amcor** - Business Intelligence (Year - Year)
+  - Description of your role and achievements.
+
+- **Bemis** - Business Intelligence (Year - Year)
+  - Description of your role and achievements.
+  
+- **Dixie Toga** - Business Intelligence (Year - Year)
+  - Description of your role and achievements.
+  
+- **Dosoft** - Business Intelligence (Year - Year)
+  - Description of your role and achievements.  
+  
+- **Interbits** - Technical Support (Year - Year)
+  - Description of your role and achievements.
+  
+- **Kaprixo Modas** - Administrative Assistant (Year - Year)
+  - Description of your role and achievements.  
