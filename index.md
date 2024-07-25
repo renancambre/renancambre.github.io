@@ -7,6 +7,12 @@ title: Home
 
 Hello! I'm Renan, a senior data engineer with a passion for building scalable data pipelines and data-driven solutions.
 
+## About Me
+
+- [AboutMe](about)
+
+[View all projects](projects)
+
 ## Projects
 
 - [Project 1](projects#project1): Data Engineering.
