@@ -3,12 +3,6 @@ layout: default
 title: About Me
 ---
 
-<!--<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/renancambre/renancambre/blob/main/img/dataengineer.gif/">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/renancambre/renancambre/blob/main/img/dataengineer.gif">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/renancambre/renancambre/blob/main/img/dataengineer.gif">
-</picture>-->
-
 ## Hi, I'm Renan 👋
 
 I'm a senior data engineer with experience in designing and implementing data pipelines, ETL processes, and data warehousing solutions. I enjoy working with big data technologies and cloud platforms to solve complex data problems.
@@ -21,19 +15,17 @@ I'm a senior data engineer with experience in designing and implementing data pi
 - 💬 Ask me about data engineering, data analysis, business intelligence
 - 📫 How to reach me: https://www.linkedin.com/in/renancambre/
 - 😄 Pronouns: He
-<!-- ⚡ Fun fact: ... -->
-<!-- 🤔 I’m looking for help with -->
 
 ## Certifications
 
 - Microsoft
 <Details>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/renancambre/renancambre/main/img/dp203.png" alt="Image 1" width="150" style="margin: 10px;">
-  <img src="https://raw.githubusercontent.com/renancambre/renancambre/main/img/dp600.png" alt="Image 2" width="150" style="margin: 10px;">
-  <img src="https://raw.githubusercontent.com/renancambre/renancambre/main/img/dp900.png" alt="Image 3" width="150" style="margin: 10px;">
-  <img src="https://raw.githubusercontent.com/renancambre/renancambre/main/img/az900.png" alt="Image 4" width="150" style="margin: 10px;">
-  <img src="https://raw.githubusercontent.com/renancambre/renancambre/main/img/ai900.png" alt="Image 5" width="150" style="margin: 10px;">
+  <img src="https://raw.githubusercontent.com/renancambre/renancambre/main/img/dp203.png" alt="Image 1" width="120" style="margin: 10px;">
+  <img src="https://raw.githubusercontent.com/renancambre/renancambre/main/img/dp600.png" alt="Image 2" width="120" style="margin: 10px;">
+  <img src="https://raw.githubusercontent.com/renancambre/renancambre/main/img/dp900.png" alt="Image 3" width="120" style="margin: 10px;">
+  <img src="https://raw.githubusercontent.com/renancambre/renancambre/main/img/az900.png" alt="Image 4" width="120" style="margin: 10px;">
+  <img src="https://raw.githubusercontent.com/renancambre/renancambre/main/img/ai900.png" alt="Image 5" width="120" style="margin: 10px;">
 </p>
 </details> 
  
@@ -43,17 +35,8 @@ I'm a senior data engineer with experience in designing and implementing data pi
 ## ⏰  Challenges for myself:
 
 I set a couple self-challenges in order to push myself more further.
-
 - Study every day per at least 2 hours.
 - Read a book peer month
-
-<!-- 
-- Workout 4 days in a row and take a day break
-- Avoid over usage of social media
-- Adapting the minimalism life style
--->
-
----
 
 ## Technical Skills
 
