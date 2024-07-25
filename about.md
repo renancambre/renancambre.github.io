@@ -6,7 +6,7 @@ title: About Me
 # About Me
 
 I am a data engineer with experience in designing and implementing data pipelines, ETL processes, and data warehousing solutions. I enjoy working with big data technologies and cloud platforms to solve complex data problems.
-I Speak Portuguese, Spanish, English
+
 
 ## Technical Skills
 

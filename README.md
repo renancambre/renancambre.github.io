@@ -1,1 +1,137 @@
-Greetings! My name is Renan, and I'm excited to share my still developing data engineer portfolio. Within this repository, you'll find a comprehensive catalog of projects completed in various data analytics/engineering courses or self development exercises, each of which covers essential skills and techniques.
+<!--<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/renancambre/renancambre/blob/main/img/dataengineer.gif/">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/renancambre/renancambre/blob/main/img/dataengineer.gif">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/renancambre/renancambre/blob/main/img/dataengineer.gif">
+</picture>-->
+
+## Hi, I'm Renan 👋
+
+I'm a senior data engineer with experience in designing and implementing data pipelines, ETL processes, and data warehousing solutions. I enjoy working with big data technologies and cloud platforms to solve complex data problems.
+
+## 🚀 About Me 
+
+- 🔭 I’m currently working on AlmavivA Soluitons as a Data Engineer.
+- 🌱 I’m currently learning about Databricks and Microsoft Fabric
+- 👯 I’m looking to collaborate on events as a volunteer.
+- 💬 Ask me about data engineering, data analysis, business intelligence
+- 📫 How to reach me: https://www.linkedin.com/in/renancambre/
+- 😄 Pronouns: He
+<!-- ⚡ Fun fact: ... -->
+<!-- 🤔 I’m looking for help with -->
+
+## Certifications
+
+- Microsoft
+<Details>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/renancambre/renancambre/main/img/dp203.png" alt="Image 1" width="150" style="margin: 10px;">
+  <img src="https://raw.githubusercontent.com/renancambre/renancambre/main/img/dp600.png" alt="Image 2" width="150" style="margin: 10px;">
+  <img src="https://raw.githubusercontent.com/renancambre/renancambre/main/img/dp900.png" alt="Image 3" width="150" style="margin: 10px;">
+  <img src="https://raw.githubusercontent.com/renancambre/renancambre/main/img/az900.png" alt="Image 4" width="150" style="margin: 10px;">
+  <img src="https://raw.githubusercontent.com/renancambre/renancambre/main/img/ai900.png" alt="Image 5" width="150" style="margin: 10px;">
+</p>
+</details> 
+ 
+- Databricks 
+ 
+
+## ⏰  Challenges for myself:
+
+I set a couple self-challenges in order to push myself more further.
+
+- Study every day per at least 2 hours.
+- Read a book peer month
+
+<!-- 
+- Workout 4 days in a row and take a day break
+- Avoid over usage of social media
+- Adapting the minimalism life style
+-->
+
+---
+
+## Technical Skills
+
+Languages Program
+<details open>
+<summary>My top languages</summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| SQL |
+|     2| Python    |
+|     3| Ruby       |
+
+</details>
+
+Cloud Plataforms
+<details open>
+<summary>My top Cloud Plataforms</summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| Azure |
+|     2| GCP    |
+
+</details>
+
+Data Plataforms
+<details open>
+<summary>My top Data Plataforms</summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| Databricks |
+|     2| Data Factory    |
+|     3| Microsoft Fabric    |
+
+</details>
+
+Data Visualization
+<details open>
+<summary>My top Data Visualization</summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| Power BI |
+|     2| Tableau    |
+|     3| Slice Management    |
+
+</details>
+
+Data Lake
+Databases
+
+## Experience
+
+- **AlmavivA Solutions** - Data Engineer (Year - Year)
+  - Description of your role and achievements.
+
+- **Magna Sistemas** - Data Engineer (Year - Year)
+  - Description of your role and achievements.
+  
+- **Amcor** - Business Intelligence (Year - Year)
+  - Description of your role and achievements.
+
+- **Bemis** - Business Intelligence (Year - Year)
+  - Description of your role and achievements.
+  
+- **Dixie Toga** - Business Intelligence (Year - Year)
+  - Description of your role and achievements.
+  
+- **Dosoft** - Business Intelligence (Year - Year)
+  - Description of your role and achievements.  
+  
+- **Interbits** - Technical Support (Year - Year)
+  - Description of your role and achievements.
+  
+- **Kaprixo Modas** - Administrative Assistant (Year - Year)
+  - Description of your role and achievements.  
+  
+
+ 
+Databricks
+ 
+ -
+ 
+GCP
