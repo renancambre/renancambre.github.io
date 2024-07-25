@@ -7,9 +7,10 @@ title: Home
 
 Hello! I'm Renan, a senior data engineer with a passion for building scalable data pipelines and data-driven solutions.
 
-## About Me
+## 🚀 About Me
 
-- [About Me](about)
+-<a href="https://renancambre.github.io/about.html" target="_blank">🚀 About Me</a>.
+
 
 ## Curriculum Vitae
 
