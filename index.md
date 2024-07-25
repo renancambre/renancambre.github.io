@@ -11,6 +11,10 @@ Hello! I'm Renan, a senior data engineer with a passion for building scalable da
 
 - [About Me](about)
 
+## Curriculum Vitae
+
+- [Curriculum Vitae](cv)
+
 ## Projects
 
 - [Project 1](projects#project1): Data Engineering.
