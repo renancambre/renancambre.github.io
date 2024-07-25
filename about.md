@@ -55,9 +55,9 @@ Databases
 - **Kaprixo Modas** - Administrative Assistant (Year - Year)
   - Description of your role and achievements.  
   
- ## Certification
+## Certification
 
- Microsoft
+Microsoft
  
  - DP900
  - AZ900
@@ -65,11 +65,8 @@ Databases
  - DP203
  - DP600
  
- Databricks
+Databricks
  
  -
  
 GCP
-
--
-
