@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Projects
+title: Data Analitics
 ---
 
 # Projects
