@@ -1,8 +1,3 @@
----
-layout: default
-title: ServiceNow
----
-
 # Projects
 - [Project 1](projects#project1): Data Engineering.
 - [Project 2](projects#project2): Data Analysis.

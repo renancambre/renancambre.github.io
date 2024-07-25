@@ -1,7 +1,3 @@
----
-layout: default
-title: Data Engineering
----
 
 # Projects
 - [Project 1](projects#project1): Data Engineering.

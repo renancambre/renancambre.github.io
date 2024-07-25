@@ -1,7 +1,3 @@
----
-layout: default
-title: BI
----
 
 # Projects
 - [Project 1](projects#project1): Data Engineering.
