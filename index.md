@@ -9,10 +9,7 @@ Hello! I'm Renan, a senior data engineer with a passion for building scalable da
 
 ## <a href="https://renancambre.github.io/about.html" target="_blank">🚀 About Me</a>.
 
-
-## Curriculum Vitae
-
-- [Curriculum Vitae](cv)
+## <a href="https://renancambre.github.io/cv">🚀 Curriculum Vitae</a>.
 
 ## Projects
 
