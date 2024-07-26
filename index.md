@@ -24,6 +24,6 @@ Welcome to My Data Engineering Portfolio!
 -->
 
 ## 👩🏻‍💻 Business Intelligence Projects
-- ### <a href="https://renancambre.github.io/proprojects">📝 Resume</a>
+- [Dashboard Equipamento](bi_projects#project1): Brief description of Project 1.
 - [Dashboard Covid](bi_projects#project2): Brief description of Project 2.
 - [Dashboard Prova](bi_projects#project3): Brief description of Project 3.
