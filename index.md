@@ -6,7 +6,8 @@ title: Home
 <!-- # Welcome to My Data Engineering Portfolio-->
 
 # Hi, I'm Renan 👋
-I'm a senior data engineer with experience in designing and implementing data pipelines, ETL processes, and data warehousing solutions. I enjoy working with big data technologies and cloud platforms to solve complex data problems.
+I'm a Senior Data Engineer with experience in designing and implementing data pipelines, ETL processes, and data warehousing solutions. I enjoy working with big data technologies and cloud platforms to solve complex data problems.
+During my IT Professional carrier, I had other experiences as a Business Intelligence, Data Analyst, ServiceNow Developer, Business Analyst.
 
 Welcome to My Data Engineering Portfolio!
 
