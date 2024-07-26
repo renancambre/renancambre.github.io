@@ -7,7 +7,7 @@ title: Curriculum
 
 I'm a senior data engineer with experience in designing and implementing data pipelines, ETL processes, and data warehousing solutions. I enjoy working with big data technologies and cloud platforms to solve complex data problems.
 
-[Open PDF](assets/resume.pdf)
+[My Resume](assets/resume.pdf)
 <embed src="assets/resume.pdf" width="600" height="400" type="application/pdf">
 
 
