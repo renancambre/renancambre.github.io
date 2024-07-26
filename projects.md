@@ -7,6 +7,7 @@ title: Projects
 
 ## Data Engineer
 <details>
+   <summary>Data Engineer Projects</summary>
 
 ### [Implementação do UnitCatalog no Databricks](#project2)
 
