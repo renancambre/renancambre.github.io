@@ -4,7 +4,7 @@ title: Projects
 ---
 
 # Projects
-### [Data Engineer](#project1)
+### [👨🏻‍💻 Data Engineer](#project1)
   <details>
     <summary>Implementação do UnitCatalog no Databricks</summary>
       <p>Projeto para implementação do Unit Catalog</p>
@@ -85,7 +85,7 @@ title: Projects
   </ul>
 </details>
 
-### [Power BI](#project3)
+### [📊 Business Intelligence](#project3)
 
 <details>
   <summary>### Desenvolvimento de Dashboard e Modelagem de dados</summary>
@@ -110,7 +110,10 @@ title: Projects
 </details>
 
 
-## ServiceNow
+### [🕵️‍♂️ Data Analysis](#project4)
+
+### [🎓 Academic Projects](#project3)
+
 
 ### [ServiceNow](#project3)
 
