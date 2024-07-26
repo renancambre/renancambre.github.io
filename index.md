@@ -16,9 +16,14 @@ Welcome to My Data Engineering Portfolio!
 
 ## 👩🏻‍💻 Data Engineer Projects
 
-- [Unity Catalog](projects#project1): Brief description of Project 1.
-- [Data Quality](projects#project2): Brief description of Project 2.
-- [Data Factory](projects#project3): Brief description of Project 3.
+- [Unity Catalog](de_projects#project1): Brief description of Project 1.
+- [Data Quality](de_projects#project2): Brief description of Project 2.
+- [Data Factory](de_projects#project3): Brief description of Project 3.
 <!--
 [View all projects](projects)
 -->
+
+## 👩🏻‍💻 Business Intelligence Projects
+- [Dashboard Equipamento](bi_projects#project1): Brief description of Project 1.
+- [Dashboard Covid](bi_projects#project2): Brief description of Project 2.
+- [Dashboard Prova](bi_projects#project3): Brief description of Project 3.
