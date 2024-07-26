@@ -8,10 +8,8 @@ title: Projects
 ## Data Engineer
 <details>
   <summary>Data Engineer Projects</summary>
-
-### [Implementação do UnitCatalog no Databricks](#project2)
   <details>
-    <summary></summary>
+    <summary>Implementação do UnitCatalog no Databricks</summary>
       <p>Projeto para implementação do Unit Catalog</p>
         <h4>Time: 7 Profissionais</h4>
         <h4>Meu Papel: Engenharia de Dados</h4>
@@ -31,11 +29,8 @@ title: Projects
           <p>Simplificação do processo, Economia de recursos, Modernização e denocratização dos dados</p>
   </details>
 
-
-### [Implementação de Data Quality](#project2)
-
 <details>
-  <summary>### Criação do Processo de Data Quality</summary>
+  <summary>Criação do Processo de Data Quality</summary>
   
   <p>A detailed description of Project 2, the technologies used, the challenges faced, and the results.</p>
 
