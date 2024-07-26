@@ -14,16 +14,17 @@ Welcome to My Data Engineering Portfolio!
 
 ### <a href="https://renancambre.github.io/cv">📝 Resume</a>
 
-## 👩🏻‍💻 Data Engineer Projects
-
+## [👩🏻‍💻 Projects](projects#de_project1): Brief description of Project 1.
+<!-->
 - [Unity Catalog](projects#de_project1): Brief description of Project 1.
 - [Data Quality](projects#de_project2): Brief description of Project 2.
 - [Data Factory](projects#de_project3): Brief description of Project 3.
-<!--
+
 [View all projects](projects)
--->
+
 
 ## 👩🏻‍💻 Business Intelligence Projects
 - [Dashboard Equipamento](bi_projects#project1): Brief description of Project 1.
 - [Dashboard Covid](bi_projects#project2): Brief description of Project 2.
 - [Dashboard Prova](bi_projects#project3): Brief description of Project 3.
+-->
