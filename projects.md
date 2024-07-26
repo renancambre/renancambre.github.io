@@ -22,13 +22,13 @@ title: Projects
     <li>Azure</li>
   </ul>
 
-  <h4>Challenges</h4>
+  <h4>Stack Desenvolvimento</h4>
   <p>SQL, Python</p>
 
   <h4>Challenges</h4>
   <p>Quantidade e Volume de dados</p>
 
-  <h4>Results</h4>
+  <b><h4>Results</h4></b>
   <p>Simplificação do processo, Economia de recursos, Modernização e denocratização dos dados</p>
 </details>
 
