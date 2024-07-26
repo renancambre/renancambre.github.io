@@ -180,42 +180,31 @@ title: Projects
 
 ### [🎓 Academic Projects](#project3)
 <details>
-
  <summary>Desenvolvimento em Ruby on Rails</summary>
-  
-  <p>Migração dos processos de ETL do Microsoft Integration Services para o Azure Data Factory, 
-  the technologies used: SSIS
-  the challenges faced: Muitos processos, review de processos e códigos
-  the results: Modernização, scalabilidade, versionamento.</p>
-
+  <p>Projeto de estudo da linguagem de programção através do curso da UDEMY</p>
 
   <h4>Time</h4>
   <ul>
-    <li>3 Profissionais</li>
+    <li>1</li>
   </ul>
 
   <h4>Meu Papel</h4>
   <ul>
-    <li>Engenharia de Dados</li>
+    <li>Desenvolvedor</li>
   </ul>
 
   <h4>Stack do Projeto</h4>
   <ul>
-    <li>SQL</li>
+    <li>Ruby on Rails</li>
   </ul>
 
   <h4>Tecnologias Utilizadas</h4>
   <ul>
-    <li>Microsoft Integration Services, Azure Data Factory, SQL Database</li>
+    <li>Ruby on Rails</li>
   </ul>
 
   <h4>Resultado</h4>
   <ul>
-    <li>Revisão dos processos, limpeza de processos e tabelas, melhorias de código, e para o Cliente final um melhor desempenho na atualização das tabelas além de maior estabilidade do process</li>
-  </ul>
-
-  <h4>Resultado</h4>
-  <ul>
-    <li>Revisão dos processos, limpeza de processos e tabelas, melhorias de código, e para o Cliente final um melhor desempenho na atualização das tabelas além de maior estabilidade do process</li>
+    <li>Entendimento da linguagem de programação orientado a objeto</li>
   </ul>
 </details>
