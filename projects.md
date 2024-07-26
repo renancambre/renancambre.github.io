@@ -5,10 +5,10 @@ title: Projects
 
 # Projects
 
-## [Project 1](#project1)
+## [Project 1](#Databricks - Implementação do Unity Catalog)
 
 <details>
-  <summary>### Databricks - Implementação do Unity Catalog</summary>
+  <summary>Databricks - Implementação do Unity Catalog</summary>
   
   <p>Projeto para implementação do Unit Catalog</p>
   <h4>Time: 7 Profissionais</h4>
