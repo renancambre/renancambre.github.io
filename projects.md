@@ -3,8 +3,11 @@ layout: default
 title: Projects
 ---
 # Projects
+
+## [Implementação do Databricks Unity Catalog](#de_project1)
+
 <details>
-    <summary>##Implementação do Databricks Unity Catalog</summary>
+    <summary>Implementação do Databricks Unity Catalog</summary>
     - Time: 7 Profissionais
     - Stack do Projeto: SQL , Python
     - Seu Papel no Time: Engenheiro de Dados
