@@ -10,15 +10,15 @@ title: Projects
  - the technologies used, 
  - the challenges faced, 
  - and the results. -->
-	 - Time: 7 Profissionais
-	 - Stack do Projeto: SQL , Python
-	 - Seu Papel no Time: Engenheiro de Dados
-	 - Tecnologias utilizadas: Databricks, Unitycatalog, Datalake, Azure DataFactory
-	 - Desafios do projeto: Quantidade de Tabelas e Volume de dados.
-     - Resultados Obtidos: 
-        - Simplificação dos processos
-        - Economia de recursos
-        - Democratização dos dados.
+- Time: 7 Profissionais
+- Stack do Projeto: SQL , Python
+- Seu Papel no Time: Engenheiro de Dados
+- Tecnologias utilizadas: Databricks, Unitycatalog, Datalake, Azure DataFactory
+- Desafios do projeto: Quantidade de Tabelas e Volume de dados.
+- Resultados Obtidos: 
+- Simplificação dos processos
+- Economia de recursos
+- Democratização dos dados.
 
 <!--### Technologies
 - Technology 1
