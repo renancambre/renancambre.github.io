@@ -5,9 +5,8 @@ title: Projects
 
 # Projects
 
-## Data Engineer
 <details>
-  <summary>Data Engineer Projects</summary>
+  <summary>## Data Engineer</summary>
   <details>
     <summary>Implementação do UnitCatalog no Databricks</summary>
       <p>Projeto para implementação do Unit Catalog</p>
@@ -88,8 +87,6 @@ title: Projects
   </ul>
 </details>
 </details>
-
-
 
 ## Business Intelligence
 
