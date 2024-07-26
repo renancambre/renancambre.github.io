@@ -5,7 +5,9 @@ title: Projects
 
 # Projects
 
-## [Implementação do UnitCatalog no Databricks](#project2)
+## Data Engineer
+
+### [Implementação do UnitCatalog no Databricks](#project2)
 
 <details>
   <summary></summary>
@@ -33,7 +35,7 @@ title: Projects
 </details>
 
 
-## [Implementação de Data Quality](#project2)
+### [Implementação de Data Quality](#project2)
 
 <details>
   <summary>### Criação do Processo de Data Quality</summary>
@@ -54,7 +56,7 @@ title: Projects
   <p>Explain the results and outcomes of the project.</p>
 </details>
 
-## [Migração para Data Factory](#project3)
+### [Migração para Data Factory](#project3)
 
 <details>
   <summary>### Migração de processo de ETL</summary>
@@ -96,10 +98,15 @@ title: Projects
   </ul>
 </details>
 
-## [Power BI](#project3)
+
+
+
+## Business Intelligence
+
+### [Power BI](#project3)
 
 <details>
-  <summary>### Migração de processo de ETL</summary>
+  <summary>### Desenvolvimento de Dashboard e Modelagem de dados</summary>
   
   <p>Migração dos processos de ETL do Microsoft Integration Services para o Azure Data Factory, 
   the technologies used: SSIS
@@ -120,7 +127,10 @@ title: Projects
   <p>Modernização, scalabilidade, versionamento</p>
 </details>
 
-## [ServiceNow](#project3)
+
+## ServiceNow
+
+### [ServiceNow](#project3)
 
 <details>
   <summary>### Master Data para Cadastro de Clientes</summary>
@@ -182,4 +192,7 @@ title: Projects
 
   <h4>Results</h4>
   <p>Modernização, scalabilidade, versionamento</p>
+
+
+
 </details>
