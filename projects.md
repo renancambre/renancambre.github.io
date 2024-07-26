@@ -4,7 +4,7 @@ title: Projects
 ---
 # Projects
 
-## [Implementação do Databricks Unity Catalog](#project1)
+## [Implementação do Databricks Unity Catalog](#de_project1)
 <!--### Description
   A detailed description of Project 1, 
  - the technologies used, 
@@ -26,7 +26,7 @@ title: Projects
 - Technology 3
 -->
 
-## [Implementação de Data Quality](#project2)
+## [Implementação de Data Quality](#de_project2)
  Através do Databricks, aplicamos create expectations entre a Bronze e Silver layer para todos campos.
  Inicialmente aplicamos verificações de campos Vazios/Nulos para evidenciar ao Cliente campos não utilizados e possibilidade de remoção no sistema de origem.
  Segundo passo verificação de tipagem dos campos.
@@ -40,7 +40,7 @@ title: Projects
         - Economia de recursos
         - Democratização dos dados.
 
-## [Migração de Pipeline de Integration Services para Azure Data Factory](#project3)
+## [Migração de Pipeline de Integration Services para Azure Data Factory](#de_project3)
  Através do Databricks, aplicamos create expectations entre a Bronze e Silver layer para todos campos.
  Inicialmente aplicamos verificações de campos Vazios/Nulos para evidenciar ao Cliente campos não utilizados e possibilidade de remoção no sistema de origem.
  Segundo passo verificação de tipagem dos campos.
