@@ -88,8 +88,6 @@ title: Projects
 </details>
 </details>
 
-## Business Intelligence
-
 ### [Power BI](#project3)
 
 <details>
