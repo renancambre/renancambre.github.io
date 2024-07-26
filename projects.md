@@ -4,6 +4,27 @@ title: Projects
 ---
 # Projects
 
+## [Project 1](#project1)
+
+<details>
+  <summary>### Description</summary>
+  
+  <p>A detailed description of Project 1, the technologies used, the challenges faced, and the results.</p>
+
+  <h4>Technologies</h4>
+  <ul>
+    <li>Technology 1</li>
+    <li>Technology 2</li>
+    <li>Technology 3</li>
+  </ul>
+
+  <h4>Challenges</h4>
+  <p>Describe the challenges faced during the project.</p>
+
+  <h4>Results</h4>
+  <p>Explain the results and outcomes of the project.</p>
+</details>
+
 ## [Implementação do Databricks Unity Catalog](#de_project1)
 
 <details>
