@@ -8,6 +8,7 @@ title: Projects
 
 <details>
     <summary>Implementação do Databricks Unity Catalog</summary>
+    ### Technologies
     - Time: 7 Profissionais
     - Stack do Projeto: SQL , Python
     - Seu Papel no Time: Engenheiro de Dados
