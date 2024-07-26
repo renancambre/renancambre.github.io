@@ -85,6 +85,8 @@ title: Projects
   </ul>
 </details>
 
+
+
 ### [📊 Business Intelligence](#project3)
 
 <details>
@@ -110,7 +112,9 @@ title: Projects
 </details>
 
 
+
 ### [🕵️‍♂️ Data Analysis](#project4)
+
 
 
 ### [ServiceNow](#project3)
@@ -178,6 +182,8 @@ title: Projects
 
 </details>
 
+
+
 ### [🎓 Academic Projects](#project3)
 <details>
  <summary>Desenvolvimento em Ruby on Rails</summary>
@@ -209,3 +215,5 @@ title: Projects
     <li>Entendimento da linguagem de programação orientado a objeto</li>
   </ul>
 </details>
+
+
