@@ -1,22 +1,13 @@
-details summary {
-  cursor: pointer;
-  font-weight: bold;
+body {
+    background-color: black;
+    color: white;
 }
 
-details[open] summary::after {
-  content: " ▲";
+a {
+    color: #1e90ff; /* Adjust link color for better visibility */
 }
 
-details summary::after {
-  content: " ▼";
-}
-
-details {
-  padding: 0.5em 0;
-  border: 1px solid #ddd;
-  margin-bottom: 1em;
-}
-
-details p, details h4, details ul {
-  margin-left: 1em;
+header, footer, .container {
+    background-color: black;
+    color: white;
 }
