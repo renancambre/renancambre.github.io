@@ -4,9 +4,7 @@ title: Projects
 ---
 
 # Projects
-
-<details>
-  <summary>## Data Engineer</summary>
+### [Data Engineer](#project1)
   <details>
     <summary>Implementação do UnitCatalog no Databricks</summary>
       <p>Projeto para implementação do Unit Catalog</p>
@@ -85,7 +83,6 @@ title: Projects
   <ul>
     <li>Revisão dos processos, limpeza de processos e tabelas, melhorias de código, e para o Cliente final um melhor desempenho na atualização das tabelas além de maior estabilidade do process</li>
   </ul>
-</details>
 </details>
 
 ### [Power BI](#project3)
