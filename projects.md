@@ -5,145 +5,184 @@ title: Projects
 
 # Projects
 
-## [Implementação do UnitCatalog no Databricks](#project1)
+## [Implementação do UnitCatalog no Databricks](#project2)
 
 <details>
-  <summary><strong>Implementação do UnitCatalog no Databricks</strong></summary>
+  <summary></summary>
+  
   <p>Projeto para implementação do Unit Catalog</p>
+  <h4>Time: 7 Profissionais</h4>
+  <h4>Meu Papel: Engenharia de Dados</h4>
   
-  **Time:** 7 Profissionais  
-  **Meu Papel:** Engenharia de Dados
-  
-  **Technologies:**  
-  - Databricks  
-  - Unity Catalog  
-  - Data Lake  
-  - Azure
+  <h4>Technologies</h4>
+  <ul>
+    <li>Databricks</li>
+    <li>Unitycatalog</li>
+    <li>Datalake</li>
+    <li>Azure</li>
+  </ul>
 
-  **Stack de Desenvolvimento:**  
-  - SQL  
-  - Python
+  <h4>Stack Desenvolvimento</h4>
+  <p>SQL, Python</p>
 
-  **Challenges:**  
-  - Quantidade e Volume de dados
+  <h4>Challenges</h4>
+  <p>Quantidade e Volume de dados</p>
 
-  **Results:**  
-  - Simplificação do processo  
-  - Economia de recursos  
-  - Modernização e democratização dos dados
+  <b><h4>Results</h4></b>
+  <p>Simplificação do processo, Economia de recursos, Modernização e denocratização dos dados</p>
 </details>
+
 
 ## [Implementação de Data Quality](#project2)
 
 <details>
-  <summary><strong>Implementação de Data Quality</strong></summary>
-  <p>Criação do Processo de Data Quality</p>
+  <summary>### Criação do Processo de Data Quality</summary>
+  
+  <p>A detailed description of Project 2, the technologies used, the challenges faced, and the results.</p>
 
-  **Technologies:**  
-  - Technology 1  
-  - Technology 2  
-  - Technology 3
+  <h4>Technologies</h4>
+  <ul>
+    <li>Technology 1</li>
+    <li>Technology 2</li>
+    <li>Technology 3</li>
+  </ul>
 
-  **Challenges:**  
-  - Describe the challenges faced during the project.
+  <h4>Challenges</h4>
+  <p>Describe the challenges faced during the project.</p>
 
-  **Results:**  
-  - Explain the results and outcomes of the project.
+  <h4>Results</h4>
+  <p>Explain the results and outcomes of the project.</p>
 </details>
 
 ## [Migração para Data Factory](#project3)
 
 <details>
-  <summary><strong>Migração para Data Factory</strong></summary>
-  <p>Migração dos processos de ETL do Microsoft Integration Services para o Azure Data Factory.</p>
+  <summary>### Migração de processo de ETL</summary>
+  
+  <p>Migração dos processos de ETL do Microsoft Integration Services para o Azure Data Factory, 
+  the technologies used: SSIS
+  the challenges faced: Muitos processos, review de processos e códigos
+  the results: Modernização, scalabilidade, versionamento.</p>
 
-  **Time:** 3 Profissionais  
-  **Meu Papel:** Engenharia de Dados  
-  **Stack do Projeto:**  
-  - SQL
 
-  **Technologies:**  
-  - Microsoft Integration Services  
-  - Azure Data Factory  
-  - SQL Database
+  <h4>Time</h4>
+  <ul>
+    <li>3 Profissionais</li>
+  </ul>
 
-  **Challenges:**  
-  - Muitos processos  
-  - Review de processos e códigos
+  <h4>Meu Papel</h4>
+  <ul>
+    <li>Engenharia de Dados</li>
+  </ul>
 
-  **Results:**  
-  - Revisão dos processos  
-  - Limpeza de processos e tabelas  
-  - Melhorias de código  
-  - Melhor desempenho na atualização das tabelas  
-  - Maior estabilidade do processo
+  <h4>Stack do Projeto</h4>
+  <ul>
+    <li>SQL</li>
+  </ul>
+
+  <h4>Tecnologias Utilizadas</h4>
+  <ul>
+    <li>Microsoft Integration Services, Azure Data Factory, SQL Database</li>
+  </ul>
+
+  <h4>Resultado</h4>
+  <ul>
+    <li>Revisão dos processos, limpeza de processos e tabelas, melhorias de código, e para o Cliente final um melhor desempenho na atualização das tabelas além de maior estabilidade do process</li>
+  </ul>
+
+  <h4>Resultado</h4>
+  <ul>
+    <li>Revisão dos processos, limpeza de processos e tabelas, melhorias de código, e para o Cliente final um melhor desempenho na atualização das tabelas além de maior estabilidade do process</li>
+  </ul>
 </details>
 
-## [Power BI](#project4)
+## [Power BI](#project3)
 
 <details>
-  <summary><strong>Power BI</strong></summary>
-  <p>Migração dos processos de ETL do Microsoft Integration Services para o Azure Data Factory.</p>
+  <summary>### Migração de processo de ETL</summary>
+  
+  <p>Migração dos processos de ETL do Microsoft Integration Services para o Azure Data Factory, 
+  the technologies used: SSIS
+  the challenges faced: Muitos processos, review de processos e códigos
+  the results: Modernização, scalabilidade, versionamento.</p>
 
-  **Technologies:**  
-  - SSIS  
-  - Data Factory  
-  - SQL Database
+  <h4>Technologies</h4>
+  <ul>
+    <li>SSIS</li>
+    <li>Data Factory</li>
+    <li>SQL Database</li>
+  </ul>
 
-  **Challenges:**  
-  - Muitos processos  
-  - Review de processos e códigos
+  <h4>Challenges</h4>
+  <p>Muitos processos, review de processos e códigos</p>
 
-  **Results:**  
-  - Modernização  
-  - Escalabilidade  
-  - Versionamento
+  <h4>Results</h4>
+  <p>Modernização, scalabilidade, versionamento</p>
 </details>
 
-## [ServiceNow](#project5)
+## [ServiceNow](#project3)
 
 <details>
-  <summary><strong>ServiceNow - Cadastro de Clientes</strong></summary>
-  <p>Master Data para Cadastro de Clientes.</p>
+  <summary>### Master Data para Cadastro de Clientes</summary>
+  
+  <p>Migração dos processos de ETL do Microsoft Integration Services para o Azure Data Factory, 
+  the technologies used: SSIS
+  the challenges faced: Muitos processos, review de processos e códigos
+  the results: Modernização, scalabilidade, versionamento.</p>
 
-  **Technologies:**  
-  - SSIS  
-  - Data Factory  
-  - SQL Database
+  <h4>Technologies</h4>
+  <ul>
+    <li>SSIS</li>
+    <li>Data Factory</li>
+    <li>SQL Database</li>
+  </ul>
 
-  **Challenges:**  
-  - Muitos processos  
-  - Review de processos e códigos
+  <h4>Challenges</h4>
+  <p>Muitos processos, review de processos e códigos</p>
 
-  **Results:**  
-  - Modernização  
-  - Escalabilidade  
-  - Versionamento
-</details>
-
-<details>
-  <summary><strong>ServiceNow - Cadastro de Fornecedores</strong></summary>
-  <p>Master Data para Cadastro de Fornecedores.</p>
-
-  **Technologies:**  
-  - SSIS  
-  - Data Factory  
-  - SQL Database
-
-  **Challenges:**  
-  - Muitos processos  
-  - Review de processos e códigos
-
-  **Results:**  
-  - Modernização  
-  - Escalabilidade  
-  - Versionamento
+  <h4>Results</h4>
+  <p>Modernização, scalabilidade, versionamento</p>
 </details>
 
 <details>
-  <summary><strong>ServiceNow - Cadastro de Produtos</strong></summary>
-  <p>Master Data para Cadastro de Produtos.</p>
+  <summary>### Master Data para Cadastro de Fornecedores</summary>
+  
+  <p>Migração dos processos de ETL do Microsoft Integration Services para o Azure Data Factory, 
+  the technologies used: SSIS
+  the challenges faced: Muitos processos, review de processos e códigos
+  the results: Modernização, scalabilidade, versionamento.</p>
 
-  **Technologies:**  
-  - SSIS  
-  -
+  <h4>Technologies</h4>
+  <ul>
+    <li>SSIS</li>
+    <li>Data Factory</li>
+    <li>SQL Database</li>
+  </ul>
+
+  <h4>Challenges</h4>
+  <p>Muitos processos, review de processos e códigos</p>
+
+  <h4>Results</h4>
+  <p>Modernização, scalabilidade, versionamento</p>
+</details>
+<details>
+  <summary>### Master Data para Cadastro de Produtos</summary>
+  
+  <p>Migração dos processos de ETL do Microsoft Integration Services para o Azure Data Factory, 
+  the technologies used: SSIS
+  the challenges faced: Muitos processos, review de processos e códigos
+  the results: Modernização, scalabilidade, versionamento.</p>
+
+  <h4>Technologies</h4>
+  <ul>
+    <li>SSIS</li>
+    <li>Data Factory</li>
+    <li>SQL Database</li>
+  </ul>
+
+  <h4>Challenges</h4>
+  <p>Muitos processos, review de processos e códigos</p>
+
+  <h4>Results</h4>
+  <p>Modernização, scalabilidade, versionamento</p>
+</details>
