@@ -6,10 +6,7 @@ title: Projects
 # Projects
 
 ## [Implementação do Databricks Unity Catalog](#project1)
-
 <!--### Description-->
-
-Implementação do Databricks Unity Catalog
  <!-- A detailed description of Project 1, 
  - the technologies used, 
  - the challenges faced, 
@@ -25,7 +22,6 @@ Implementação do Databricks Unity Catalog
         - Democratização dos dados.
 
 <!--### Technologies
-
 - Technology 1
 - Technology 2
 - Technology 3
@@ -33,7 +29,6 @@ Implementação do Databricks Unity Catalog
 
 ## [Implementação de Data Quality](#project2)
 <!--### Description-->
-Implementação do Data Quality nas tabelas do Cliente
  Através do Databricks, aplicamos create expectations entre a Bronze e Silver layer para todos campos.
  Inicialmente aplicamos verificações de campos Vazios/Nulos para evidenciar ao Cliente campos não utilizados e possibilidade de remoção no sistema de origem.
  Segundo passo verificação de tipagem dos campos.
@@ -59,7 +54,6 @@ Implementação do Data Quality nas tabelas do Cliente
 -->
 ## [Migração de Pipeline de Integration Services para Azure Data Factory](#project3)
 <!--### Description-->
-Implementação do Data Quality nas tabelas do Cliente
  Através do Databricks, aplicamos create expectations entre a Bronze e Silver layer para todos campos.
  Inicialmente aplicamos verificações de campos Vazios/Nulos para evidenciar ao Cliente campos não utilizados e possibilidade de remoção no sistema de origem.
  Segundo passo verificação de tipagem dos campos.
