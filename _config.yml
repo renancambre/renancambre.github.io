@@ -9,5 +9,9 @@ url: "" #"https://renancambre.github.io" # the base hostname & protocol for your
 
 theme: minima
 
+# Add this line to include your custom CSS file
+sass:
+  sass_dir: _sass
+
 plugins:
   - jekyll-feed

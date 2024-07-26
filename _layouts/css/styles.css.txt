@@ -1,0 +1,22 @@
+details summary {
+  cursor: pointer;
+  font-weight: bold;
+}
+
+details[open] summary::after {
+  content: " ▲";
+}
+
+details summary::after {
+  content: " ▼";
+}
+
+details {
+  padding: 0.5em 0;
+  border: 1px solid #ddd;
+  margin-bottom: 1em;
+}
+
+details p, details h4, details ul {
+  margin-left: 1em;
+}
