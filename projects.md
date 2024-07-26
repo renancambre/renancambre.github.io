@@ -4,12 +4,14 @@ title: Projects
 ---
 # Projects
 
-## [Implementação do Databricks Unity Catalog](#de_project1)
+
 <!--### Description
   A detailed description of Project 1, 
  - the technologies used, 
  - the challenges faced, 
  - and the results. -->
+<details>
+<summary>## [Implementação do Databricks Unity Catalog](#de_project1)</summary>
 - Time: 7 Profissionais
 - Stack do Projeto: SQL , Python
 - Seu Papel no Time: Engenheiro de Dados
@@ -25,6 +27,7 @@ title: Projects
 - Technology 2
 - Technology 3
 -->
+</details>
 
 ## [Implementação de Data Quality](#de_project2)
  Através do Databricks, aplicamos create expectations entre a Bronze e Silver layer para todos campos.
