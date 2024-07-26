@@ -189,7 +189,7 @@ title: Projects
   <p>Projeto de estudo da linguagem de programção através do curso da UDEMY.
   Veja o projeto no <a href="https://github.com/renancambre/Ruby" target="_blank">GitHub</a>.</p>
 
-  **Time**
+  __Time__
   <ul>
     <li>1</li>
   </ul>
