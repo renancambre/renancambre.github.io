@@ -16,9 +16,9 @@ title: Projects
 - Tecnologias utilizadas: Databricks, Unitycatalog, Datalake, Azure DataFactory
 - Desafios do projeto: Quantidade de Tabelas e Volume de dados.
 - Resultados Obtidos: 
-- Simplificação dos processos
-- Economia de recursos
-- Democratização dos dados.
+    - Simplificação dos processos
+    - Economia de recursos
+    - Democratização dos dados.
 
 <!--### Technologies
 - Technology 1
