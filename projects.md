@@ -13,18 +13,24 @@ title: Projects
   
   **Time:** 7 Profissionais  
   **Meu Papel:** Engenharia de Dados
-
-  **Technologies:**
-  - Databricks
-  - Unity Catalog
-  - Data Lake
+  
+  **Technologies:**  
+  - Databricks  
+  - Unity Catalog  
+  - Data Lake  
   - Azure
 
-  **Stack de Desenvolvimento:** SQL, Python
+  **Stack de Desenvolvimento:**  
+  - SQL  
+  - Python
 
-  **Challenges:** Quantidade e Volume de dados
+  **Challenges:**  
+  - Quantidade e Volume de dados
 
-  **Results:** Simplificação do processo, Economia de recursos, Modernização e democratização dos dados
+  **Results:**  
+  - Simplificação do processo  
+  - Economia de recursos  
+  - Modernização e democratização dos dados
 </details>
 
 ## [Implementação de Data Quality](#project2)
@@ -33,14 +39,16 @@ title: Projects
   <summary><strong>Implementação de Data Quality</strong></summary>
   <p>Criação do Processo de Data Quality</p>
 
-  **Technologies:**
-  - Technology 1
-  - Technology 2
+  **Technologies:**  
+  - Technology 1  
+  - Technology 2  
   - Technology 3
 
-  **Challenges:** Describe the challenges faced during the project.
+  **Challenges:**  
+  - Describe the challenges faced during the project.
 
-  **Results:** Explain the results and outcomes of the project.
+  **Results:**  
+  - Explain the results and outcomes of the project.
 </details>
 
 ## [Migração para Data Factory](#project3)
@@ -51,16 +59,24 @@ title: Projects
 
   **Time:** 3 Profissionais  
   **Meu Papel:** Engenharia de Dados  
-  **Stack do Projeto:** SQL
+  **Stack do Projeto:**  
+  - SQL
 
-  **Technologies:**
-  - Microsoft Integration Services
-  - Azure Data Factory
+  **Technologies:**  
+  - Microsoft Integration Services  
+  - Azure Data Factory  
   - SQL Database
 
-  **Challenges:** Muitos processos, review de processos e códigos
+  **Challenges:**  
+  - Muitos processos  
+  - Review de processos e códigos
 
-  **Results:** Revisão dos processos, limpeza de processos e tabelas, melhorias de código, e para o Cliente final um melhor desempenho na atualização das tabelas além de maior estabilidade do processo.
+  **Results:**  
+  - Revisão dos processos  
+  - Limpeza de processos e tabelas  
+  - Melhorias de código  
+  - Melhor desempenho na atualização das tabelas  
+  - Maior estabilidade do processo
 </details>
 
 ## [Power BI](#project4)
@@ -69,14 +85,19 @@ title: Projects
   <summary><strong>Power BI</strong></summary>
   <p>Migração dos processos de ETL do Microsoft Integration Services para o Azure Data Factory.</p>
 
-  **Technologies:**
-  - SSIS
-  - Data Factory
+  **Technologies:**  
+  - SSIS  
+  - Data Factory  
   - SQL Database
 
-  **Challenges:** Muitos processos, review de processos e códigos
+  **Challenges:**  
+  - Muitos processos  
+  - Review de processos e códigos
 
-  **Results:** Modernização, escalabilidade, versionamento
+  **Results:**  
+  - Modernização  
+  - Escalabilidade  
+  - Versionamento
 </details>
 
 ## [ServiceNow](#project5)
@@ -85,40 +106,44 @@ title: Projects
   <summary><strong>ServiceNow - Cadastro de Clientes</strong></summary>
   <p>Master Data para Cadastro de Clientes.</p>
 
-  **Technologies:**
-  - SSIS
-  - Data Factory
+  **Technologies:**  
+  - SSIS  
+  - Data Factory  
   - SQL Database
 
-  **Challenges:** Muitos processos, review de processos e códigos
+  **Challenges:**  
+  - Muitos processos  
+  - Review de processos e códigos
 
-  **Results:** Modernização, escalabilidade, versionamento
+  **Results:**  
+  - Modernização  
+  - Escalabilidade  
+  - Versionamento
 </details>
 
 <details>
   <summary><strong>ServiceNow - Cadastro de Fornecedores</strong></summary>
   <p>Master Data para Cadastro de Fornecedores.</p>
 
-  **Technologies:**
-  - SSIS
-  - Data Factory
+  **Technologies:**  
+  - SSIS  
+  - Data Factory  
   - SQL Database
 
-  **Challenges:** Muitos processos, review de processos e códigos
+  **Challenges:**  
+  - Muitos processos  
+  - Review de processos e códigos
 
-  **Results:** Modernização, escalabilidade, versionamento
+  **Results:**  
+  - Modernização  
+  - Escalabilidade  
+  - Versionamento
 </details>
 
 <details>
   <summary><strong>ServiceNow - Cadastro de Produtos</strong></summary>
   <p>Master Data para Cadastro de Produtos.</p>
 
-  **Technologies:**
-  - SSIS
-  - Data Factory
-  - SQL Database
-
-  **Challenges:** Muitos processos, review de processos e códigos
-
-  **Results:** Modernização, escalabilidade, versionamento
-</details>
+  **Technologies:**  
+  - SSIS  
+  -
