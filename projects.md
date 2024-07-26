@@ -10,37 +10,56 @@ title: Projects
 ### Description
 
 Implementação do Databricks Unity Catalog
- - A detailed description of Project 1, the technologies used, the challenges faced, and the results.
-- Elabore uma narrativa clara e objetiva sobre sua jornada profissional. Isso é 
-	 fundamental, pois as entrevistas variam de 30 minutos a 2 horas. Siga essa linha: 
-	 - Projeto
+ <!--- A detailed description of Project 1, 
+ - the technologies used, 
+ - the challenges faced, 
+ - and the results. -->
 	 - Time: 7 Profissionais
 	 - Stack do Projeto: SQL , Python
 	 - Seu Papel no Time: Engenheiro de Dados
 	 - Tecnologias utilizadas: Databricks, Unitycatalog, Datalake, Azure DataFactory
-	 - Resultados Obtidos: 
+	 - Desafios do projeto: Quantidade de Tabelas e Volume de dados.
+     - Resultados Obtidos: 
         - Simplificação dos processos
         - Economia de recursos
         - Democratização dos dados.
 
-### Technologies
+<!--### Technologies
 
 - Technology 1
 - Technology 2
 - Technology 3
+-->
 
-## [Project 2](#project2)
+## [Implementação de Data Quality](#project2)
+
 
 ### Description
 
-A detailed description of Project 2, the technologies used, the challenges faced, and the results.
+Implementação do Data Quality nas tabelas do Cliente
+ Através do Databricks, aplicamos create expectations entre a Bronze e Silver layer para todos campos.
+ Inicialmente aplicamos verificações de campos Vazios/Nulos para evidenciar ao Cliente campos não utilizados e possibilidade de remoção no sistema de origem.
+ Segundo passo verificação de tipagem dos campos.
+ <!--- A detailed description of Project 1, 
+ - the technologies used, 
+ - the challenges faced, 
+ - and the results. -->
+	 - Time: 2 Profissionais
+	 - Stack do Projeto: SQL , Python
+	 - Seu Papel no Time: Engenheiro de Dados
+	 - Tecnologias utilizadas: Databricks
+	 - Desafios do projeto: Quantidade de Tabelas e Volume de dados
+     - Resultados Obtidos: 
+        - Simplificação dos processos
+        - Economia de recursos
+        - Democratização dos dados.
 
-### Technologies
+<!--### Technologies
 
 - Technology 1
 - Technology 2
 - Technology 3
-
+-->
 ## [Project 3](#project3)
 
 ### Description
