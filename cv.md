@@ -7,7 +7,7 @@ title: Curriculum
 
 I'm a senior data engineer with experience in designing and implementing data pipelines, ETL processes, and data warehousing solutions. I enjoy working with big data technologies and cloud platforms to solve complex data problems.
 
-[Open PDF](https://github.com/renancambre/renancambre.github.io/blob/main/_assets/Renan_Cambre_CV.pdf)
+[Open PDF](_assets/Renan_Cambre_CV.pdf)
 
 ## 🚀 About Me 
 
