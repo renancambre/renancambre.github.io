@@ -19,7 +19,6 @@ I'm a senior data engineer with experience in designing and implementing data pi
 ## Certifications
 
 - Microsoft
-<Details>
 <p align="center">
   <img src="https://raw.githubusercontent.com/renancambre/renancambre/main/img/dp203.png" alt="Image 1" width="120" style="margin: 10px;">
   <img src="https://raw.githubusercontent.com/renancambre/renancambre/main/img/dp600.png" alt="Image 2" width="120" style="margin: 10px;">
@@ -27,68 +26,16 @@ I'm a senior data engineer with experience in designing and implementing data pi
   <img src="https://raw.githubusercontent.com/renancambre/renancambre/main/img/az900.png" alt="Image 4" width="120" style="margin: 10px;">
   <img src="https://raw.githubusercontent.com/renancambre/renancambre/main/img/ai900.png" alt="Image 5" width="120" style="margin: 10px;">
 </p>
-</details> 
  
 - Databricks 
- 
-
-## ⏰  Challenges for myself:
-
-I set a couple self-challenges in order to push myself more further.
-- Study every day per at least 2 hours.
-- Read a book peer month
 
 ## Technical Skills
 
-Languages Program
-<details open>
-<summary>My top languages</summary>
-
-| Rank | Languages |
-|-----:|-----------|
-|     1| SQL |
-|     2| Python    |
-|     3| Ruby       |
-
-</details>
-
-Cloud Plataforms
-<details open>
-<summary>My top Cloud Plataforms</summary>
-
-| Rank | Languages |
-|-----:|-----------|
-|     1| Azure |
-|     2| GCP    |
-
-</details>
-
-Data Plataforms
-<details open>
-<summary>My top Data Plataforms</summary>
-
-| Rank | Languages |
-|-----:|-----------|
-|     1| Databricks |
-|     2| Data Factory    |
-|     3| Microsoft Fabric    |
-
-</details>
-
-Data Visualization
-<details open>
-<summary>My top Data Visualization</summary>
-
-| Rank | Languages |
-|-----:|-----------|
-|     1| Power BI |
-|     2| Tableau    |
-|     3| Slice Management    |
-
-</details>
-
-Data Lake
-Databases
+Languages Program: SQL, Python, Spark
+Cloud Plataforms: Azure
+Data Plataforms: Databricks, Data Factory, Microsoft Fabric
+Data Visualization: Power BI, Tableau, Slice Management
+Data Lake, Databases, Data Warehouse
 
 ## Experience
 
@@ -117,9 +64,8 @@ Databases
   - Description of your role and achievements.  
   
 
+## Courses
+
+## Technical Skills
+
  
-Databricks
- 
- -
- 
-GCP
