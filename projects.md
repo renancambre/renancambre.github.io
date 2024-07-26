@@ -168,10 +168,7 @@ title: Projects
 <details>
   <summary>### Master Data para Cadastro de Produtos</summary>
   
-  <p>Migração dos processos de ETL do Microsoft Integration Services para o Azure Data Factory, 
-  the technologies used: SSIS
-  the challenges faced: Muitos processos, review de processos e códigos
-  the results: Modernização, scalabilidade, versionamento.</p>
+  <p>Migração dos processos de ETL do Microsoft Integration Services para o Azure Data Factory. Veja o projeto no <a href="https://github.com/renancambre/ServiceNow" target="_blank">GitHub</a>.</p>
 
   <h4>Technologies</h4>
   <ul>
