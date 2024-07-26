@@ -88,7 +88,6 @@ title: Projects
 
 
 ### [📊 Business Intelligence](#project3)
-
 <details>
   <summary>### Desenvolvimento de Dashboard e Modelagem de dados</summary>
   
@@ -190,7 +189,7 @@ title: Projects
   <p>Projeto de estudo da linguagem de programção através do curso da UDEMY.
   Veja o projeto no <a href="https://github.com/renancambre/Ruby" target="_blank">GitHub</a>.</p>
 
-  <h4>Time</h4>
+  <h4>**Time**</h4>
   <ul>
     <li>1</li>
   </ul>
