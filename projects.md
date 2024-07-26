@@ -64,18 +64,35 @@ title: Projects
   the challenges faced: Muitos processos, review de processos e códigos
   the results: Modernização, scalabilidade, versionamento.</p>
 
-  <h4>Technologies</h4>
+  <h4>Time</h4>
   <ul>
-    <li>SSIS</li>
-    <li>Data Factory</li>
-    <li>SQL Database</li>
+    <li>3 Profissionais</li>
   </ul>
 
-  <h4>Challenges</h4>
-  <p>Muitos processos, review de processos e códigos</p>
+  <h4>Meu Papel</h4>
+  <ul>
+    <li>Engenharia de Dados</li>
+  </ul>
 
-  <h4>Results</h4>
-  <p>Modernização, scalabilidade, versionamento</p>
+  <h4>Stack do Projeto</h4>
+  <ul>
+    <li>SQL</li>
+  </ul>
+
+  <h4>Tecnologias Utilizadas</h4>
+  <ul>
+    <li>Microsoft Integration Services, Azure Data Factory, SQL Database</li>
+  </ul>
+
+  <h4>Resultado</h4>
+  <ul>
+    <li>Revisão dos processos, limpeza de processos e tabelas, melhorias de código, e para o Cliente final um melhor desempenho na atualização das tabelas além de maior estabilidade do process</li>
+  </ul>
+
+  <h4>Resultado</h4>
+  <ul>
+    <li>Revisão dos processos, limpeza de processos e tabelas, melhorias de código, e para o Cliente final um melhor desempenho na atualização das tabelas além de maior estabilidade do process</li>
+  </ul>
 </details>
 
 ## [Power BI](#project3)
