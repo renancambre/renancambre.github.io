@@ -7,6 +7,8 @@ title: Curriculum
 
 I'm a senior data engineer with experience in designing and implementing data pipelines, ETL processes, and data warehousing solutions. I enjoy working with big data technologies and cloud platforms to solve complex data problems.
 
+[Open PDF](_assets/Renan_Cambre.pdf)
+
 ## 🚀 About Me 
 
 - 🔭 I’m currently working on AlmavivA Soluitons as a Data Engineer.
