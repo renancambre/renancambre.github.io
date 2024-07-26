@@ -179,6 +179,8 @@ title: Projects
 </details>
 
 ### [🎓 Academic Projects](#project3)
+<details>
+
  <summary>Desenvolvimento em Ruby on Rails</summary>
   
   <p>Migração dos processos de ETL do Microsoft Integration Services para o Azure Data Factory, 
@@ -216,3 +218,4 @@ title: Projects
   <ul>
     <li>Revisão dos processos, limpeza de processos e tabelas, melhorias de código, e para o Cliente final um melhor desempenho na atualização das tabelas além de maior estabilidade do process</li>
   </ul>
+</details>
