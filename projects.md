@@ -3,6 +3,9 @@ layout: default
 title: Projects
 ---
 
+<div style="display: flex; justify-content: space-between;">
+
+  <div style="flex: 1; padding: 10px;">
 # Projects
 ### [👨🏻‍💻 Data Engineer](#project1)
   <details>
@@ -181,8 +184,9 @@ title: Projects
 
 </details>
 
+  </div>
 
-
+  <div style="flex: 1; padding: 10px;">
 ### [🎓 Academic Projects](#project3)
 <details>
  <summary>Desenvolvimento em Ruby on Rails</summary>
@@ -215,4 +219,6 @@ title: Projects
   </ul>
 </details>
 
+  </div>
 
+</div>
