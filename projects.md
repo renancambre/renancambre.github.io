@@ -8,7 +8,7 @@ title: Projects
 ## [Project 1](#Databricks - Implementação do Unity Catalog)
 
 <details>
-  <summary>Databricks - Implementação do Unity Catalog</summary>
+  <summary></summary>
   
   <p>Projeto para implementação do Unit Catalog</p>
   <h4>Time: 7 Profissionais</h4>
