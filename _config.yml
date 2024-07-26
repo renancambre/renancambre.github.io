@@ -13,5 +13,7 @@ theme: minima
 sass:
   sass_dir: _sass
 
+baseurl: "" # or "/your-repo-name" if your site is hosted in a subdirectory
+
 plugins:
   - jekyll-feed
