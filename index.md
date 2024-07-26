@@ -14,7 +14,7 @@ Welcome to My Data Engineering Portfolio!
 
 ### <a href="https://renancambre.github.io/cv">📝 Resume</a>
 
-## [👩🏻‍💻 Projects](projects#de_project1): Brief description of Project 1.
+## [👩🏻‍💻 Projects](projects#de_project1)
 <!-->
 - [Unity Catalog](projects#de_project1): Brief description of Project 1.
 - [Data Quality](projects#de_project2): Brief description of Project 2.
