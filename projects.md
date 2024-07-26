@@ -5,7 +5,7 @@ title: Projects
 
 # Projects
 
-## [Project 1](#Databricks - Implementação do Unity Catalog)
+## [Databricks - UnitCatalog](#project2)
 
 <details>
   <summary></summary>
@@ -33,7 +33,7 @@ title: Projects
 </details>
 
 
-## [Project 2](#project2)
+## [Data Quality](#project2)
 
 <details>
   <summary>### Description</summary>
@@ -54,7 +54,7 @@ title: Projects
   <p>Explain the results and outcomes of the project.</p>
 </details>
 
-## [Project 3](#project3)
+## [Data Factory](#project3)
 
 <details>
   <summary>### Description</summary>
