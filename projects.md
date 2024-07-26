@@ -27,7 +27,6 @@ title: Projects
 -->
 
 ## [Implementação de Data Quality](#project2)
-
  Através do Databricks, aplicamos create expectations entre a Bronze e Silver layer para todos campos.
  Inicialmente aplicamos verificações de campos Vazios/Nulos para evidenciar ao Cliente campos não utilizados e possibilidade de remoção no sistema de origem.
  Segundo passo verificação de tipagem dos campos.
@@ -42,7 +41,6 @@ title: Projects
         - Democratização dos dados.
 
 ## [Migração de Pipeline de Integration Services para Azure Data Factory](#project3)
-
  Através do Databricks, aplicamos create expectations entre a Bronze e Silver layer para todos campos.
  Inicialmente aplicamos verificações de campos Vazios/Nulos para evidenciar ao Cliente campos não utilizados e possibilidade de remoção no sistema de origem.
  Segundo passo verificação de tipagem dos campos.
